@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <a href="https://app.daily.dev/MohJumaa"><img src="https://api.daily.dev/devcards/6d7b850a16d944cbada007f60977ee9a.png?r=cqj" width="400" alt="Mohamed Gumaa Abadlla's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/MohJumaa/MohJumaa/blob/master/devcard.svg" width="400" alt="Mohamed Gumaa's Dev Card"/></a>
 
 <!--
 **MohGumaa/MohGumaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
